@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\bin\Debug\net6.0\ListExample.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\bin\Debug\net6.0\ListExample.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\bin\Debug\net6.0\ListExample.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\bin\Debug\net6.0\ListExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\bin\Debug\net6.0\ListExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\refint\ListExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ListExample.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ListExample\ListExample\obj\Debug\net6.0\ref\ListExample.dll

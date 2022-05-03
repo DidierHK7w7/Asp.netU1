@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\bin\Debug\net6.0\stringExample.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\bin\Debug\net6.0\stringExample.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\bin\Debug\net6.0\stringExample.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\bin\Debug\net6.0\stringExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\bin\Debug\net6.0\stringExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\refint\stringExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\stringExample.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\stringExample\stringExample\obj\Debug\net6.0\ref\stringExample.dll

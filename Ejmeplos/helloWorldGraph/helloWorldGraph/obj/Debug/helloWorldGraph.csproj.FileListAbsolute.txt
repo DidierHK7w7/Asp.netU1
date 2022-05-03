@@ -1,0 +1,16 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\bin\Debug\helloWorldGraph.exe.config
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\bin\Debug\helloWorldGraph.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\bin\Debug\helloWorldGraph.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\MainWindow.g.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\App.g.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph_MarkupCompile.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph_MarkupCompile.lref
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\MainWindow.baml
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.g.resources
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.Properties.Resources.resources
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.csproj.GenerateResource.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldGraph\helloWorldGraph\obj\Debug\helloWorldGraph.pdb

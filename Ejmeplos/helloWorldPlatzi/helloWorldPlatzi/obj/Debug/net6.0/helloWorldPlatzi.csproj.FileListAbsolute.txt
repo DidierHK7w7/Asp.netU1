@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\refint\helloWorldPlatzi.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\ref\helloWorldPlatzi.dll

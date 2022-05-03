@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\bin\Debug\net6.0\RestaurantSystem.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\bin\Debug\net6.0\RestaurantSystem.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\bin\Debug\net6.0\RestaurantSystem.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\bin\Debug\net6.0\RestaurantSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\bin\Debug\net6.0\RestaurantSystem.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\refint\RestaurantSystem.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\RestaurantSystem.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\RestaurantSystem\RestaurantSystem\obj\Debug\net6.0\ref\RestaurantSystem.dll

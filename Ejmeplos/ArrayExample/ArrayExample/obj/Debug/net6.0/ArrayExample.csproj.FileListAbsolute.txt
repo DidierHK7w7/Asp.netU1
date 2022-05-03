@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\refint\ArrayExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\ArrayExample\ArrayExample\obj\Debug\net6.0\ref\ArrayExample.dll

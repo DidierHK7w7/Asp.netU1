@@ -1,0 +1,15 @@
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\bin\Debug\net6.0\LoopsExample.exe
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\bin\Debug\net6.0\LoopsExample.deps.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\bin\Debug\net6.0\LoopsExample.runtimeconfig.json
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\bin\Debug\net6.0\LoopsExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\bin\Debug\net6.0\LoopsExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.csproj.AssemblyReference.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.AssemblyInfoInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.AssemblyInfo.cs
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.csproj.CoreCompileInputs.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\refint\LoopsExample.dll
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.pdb
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\LoopsExample.genruntimeconfig.cache
+C:\Users\didie\Documents\BOT\Módulo 4. ASP.NET\Unidad 1. Curso de Introducción a C#\Ejmeplos\LoopsExample\LoopsExample\obj\Debug\net6.0\ref\LoopsExample.dll
